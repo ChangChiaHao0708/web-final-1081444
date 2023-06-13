@@ -6,3 +6,8 @@ input{
     position: absolute;
     top: 0;
 }
+#flavor{
+    position: absolute;
+    top: 0;
+    left: 960px;
+}
